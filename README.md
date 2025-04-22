@@ -166,7 +166,7 @@ proxies:
     server: 这里填服务器的ipv6地址，填ipv4的话还怎么免流？
     port: 这里填设置成的端口号，上面用的11451
     password: 这里填密码，也就是上面hy-client.yaml中的的auth的一行内容
-    sni: www.bing.com
+    sni: 这里填混淆地址，默认是首尔大学，我上面用的bing，这里也用bing www.bing.com 
     skip-cert-verify: true
     hopinterval: 30
     fast-open: true
