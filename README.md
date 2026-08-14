@@ -1,5 +1,8 @@
 # 东北大学校园网免流全新教程
 
+###教程以过时，新方案想看：
+https://github.com/SkYFly2233/NEU-campus-free
+
 ### 免流介绍
 
 ![image-20250419212113105](https://github.com/SkYFly2233/NEU-ipv6-proxy/blob/main/image/image-20250419212113105.png)
